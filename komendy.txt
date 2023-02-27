@@ -1,0 +1,13 @@
+Sakos@DESKTOP-NC56SQ4 MINGW64 ~/nauka-gita/learning-git-2 (main)
+$ npm exec html-validate index.html
+
+C:\Users\Sakos\nauka-gita\learning-git-2\index.html
+  16:16  error  Trailing whitespace  no-trailing-whitespace
+  22:16  error  Trailing whitespace  no-trailing-whitespace
+  27:17  error  Trailing whitespace  no-trailing-whitespace
+  46:16  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 4 problems (4 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
