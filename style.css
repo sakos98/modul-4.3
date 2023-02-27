@@ -2,6 +2,11 @@ body {
     margin: 0 auto;
     padding: auto;
 }
+
 .title-song h1{
     color: blue;
+}
+
+.title-text {
+    color: aqua;
 }
